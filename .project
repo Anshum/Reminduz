@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Hack</name>
+=======
+  <name>reminduz</name>
+>>>>>>> bea965a9acd56957335db866aa434db7db7d9af2
 	<comment></comment>
 	<projects>
 	</projects>
